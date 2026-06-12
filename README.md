@@ -39,6 +39,8 @@ g++ calculator.cpp -o calculator
 OUTPUT IMAGES-
 
 ![img alt](https://github.com/ananya-gupta848/Scientific-Calculator/blob/main/Screenshot%202026-06-12%20145907.png?raw=true)
+![img alt](https://github.com/ananya-gupta848/Scientific-Calculator/blob/main/Screenshot%202026-06-12%20150144.png?raw=true)
+
 
 
 
