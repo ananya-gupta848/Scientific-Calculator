@@ -44,6 +44,7 @@ OUTPUT IMAGES-
 ![img alt](https://github.com/ananya-gupta848/Scientific-Calculator/blob/main/Screenshot%202026-06-12%20150105.png?raw=true)
 ![img alt](https://github.com/ananya-gupta848/Scientific-Calculator/blob/main/Screenshot%202026-06-12%20150233.png?raw=true)
 ![img alt](https://github.com/ananya-gupta848/Scientific-Calculator/blob/main/Screenshot%202026-06-12%20150253.png?raw=true)
+![img alt](https://github.com/ananya-gupta848/Scientific-Calculator/blob/main/Screenshot%202026-06-12%20150305.png?raw=true)
 
 
 
