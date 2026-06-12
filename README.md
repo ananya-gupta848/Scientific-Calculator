@@ -15,12 +15,12 @@ DOCUMENTATION:-
 
 ⚙️ Features
 
-Basic Arithmetic – Addition, subtraction, multiplication, and division.
-Power & Roots – Square, cube, square root, nth root.
-Logarithmic Functions – Natural log and log base 10.
-Trigonometric Functions – Sine, cosine, tangent, and their inverses.
-Error Handling – Prevents invalid inputs such as division by zero.
-Menu-driven Interface – Easy navigation through calculator options.
+Basic Arithmetic – Addition, subtraction, multiplication, and division.<br>
+Power & Roots – Square, cube, square root, nth root.<br>
+Logarithmic Functions – Natural log and log base 10.<br>
+Trigonometric Functions – Sine, cosine, tangent, and their inverses.<br>
+Error Handling – Prevents invalid inputs such as division by zero.<br>
+Menu-driven Interface – Easy navigation through calculator options.<br>
 
 🛠️ Installation
 1.Clone the repository:
@@ -33,7 +33,7 @@ cd Scientific-Calculator
 3.Compile the code:
 g++ calculator.cpp -o calculator
 
-4.Rum the program:
+4.Run the program:
 ./calculator
 
 OUTPUT IMAGES-
